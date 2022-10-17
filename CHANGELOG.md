@@ -6,6 +6,9 @@
 
 **Implemented enhancements:**
 
+- Remove Image Search Code [\#18](https://github.com/SturtzNetwork/SturtzSearch/issues/18)
+- Pull to main [\#20](https://github.com/SturtzNetwork/SturtzSearch/pull/20) ([DarthKilroy](https://github.com/DarthKilroy))
+- Removed Image Search [\#19](https://github.com/SturtzNetwork/SturtzSearch/pull/19) ([DarthKilroy](https://github.com/DarthKilroy))
 - changelog [\#17](https://github.com/SturtzNetwork/SturtzSearch/pull/17) ([DarthKilroy](https://github.com/DarthKilroy))
 
 ## [2.3](https://github.com/sturtznetwork/sturtzsearch/tree/2.3) (2022-10-17)
