@@ -1,8 +1,8 @@
 # Changelog
 
-## [Unreleased](https://github.com/sturtznetwork/sturtzsearch/tree/HEAD)
+## [2.3.1](https://github.com/sturtznetwork/sturtzsearch/tree/2.3.1) (2022-10-17)
 
-[Full Changelog](https://github.com/sturtznetwork/sturtzsearch/compare/2.3...HEAD)
+[Full Changelog](https://github.com/sturtznetwork/sturtzsearch/compare/2.3...2.3.1)
 
 **Implemented enhancements:**
 
