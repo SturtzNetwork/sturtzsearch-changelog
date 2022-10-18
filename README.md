@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/sturtznetwork/sturtzsearch/tree/HEAD)
+
+[Full Changelog](https://github.com/sturtznetwork/sturtzsearch/compare/2.3.1...HEAD)
+
+**Merged pull requests:**
+
+- Fixed some html formatting [\#21](https://github.com/SturtzNetwork/SturtzSearch/pull/21) ([DarthKilroy](https://github.com/DarthKilroy))
+
 ## [2.3.1](https://github.com/sturtznetwork/sturtzsearch/tree/2.3.1) (2022-10-17)
 
 [Full Changelog](https://github.com/sturtznetwork/sturtzsearch/compare/2.3...2.3.1)
