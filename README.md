@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- non breaking change: updated submitcrawl.php [\#23](https://github.com/SturtzNetwork/SturtzSearch/pull/23) ([DarthKilroy](https://github.com/DarthKilroy))
 - Fixed some html formatting [\#21](https://github.com/SturtzNetwork/SturtzSearch/pull/21) ([DarthKilroy](https://github.com/DarthKilroy))
 
 ## [2.3.1](https://github.com/sturtznetwork/sturtzsearch/tree/2.3.1) (2022-10-17)
